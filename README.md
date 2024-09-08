@@ -1,4 +1,6 @@
-![header](https://github.com/user-attachments/assets/0810396f-0b0c-4a6f-8d49-a2ba999d0333)
+<a href="https://github.com/yedamhy" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0810396f-0b0c-4a6f-8d49-a2ba999d0333" alt="header">
+</a>
 <br></br>
 
 <h2>About Me</h2>
